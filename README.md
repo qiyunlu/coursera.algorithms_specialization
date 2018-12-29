@@ -1,2 +1,2 @@
-# coursera.algorithms_specialization
-Algorithms Specialization
+# Algorithms Specialization
+Offered By Stanford University
