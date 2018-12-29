@@ -1,2 +1,1 @@
-# coursera.algorithms_specialization
-Algorithms Specialization
+# Divide and Conquer, Sorting and Searching, and Randomized Algorithms
